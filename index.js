@@ -27,3 +27,5 @@ class Level
             })
         })
     }
+
+class State
